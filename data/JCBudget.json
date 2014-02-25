@@ -1,0 +1,2030 @@
+{
+  "name": "JCBudget", 
+  "children": [
+    {
+      "name": "CITY CLERK & MUNICIPAL COUNCIL", 
+      "children": [
+        {
+          "name": "ANNUAL AUDIT \u2013 Other Expenses", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 350000, 
+                  "size": 350000
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "name": "DEPARTMENT OF BUSINESS ADMINISTRATION", 
+      "children": [
+        {
+          "name": "ACCOUNTS & CONTROL", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 5100, 
+                  "size": 5100
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 486212, 
+                  "size": 486212
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "ADMINISTRATOR'S OFFICE", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 87000, 
+                  "size": 87000
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 1558105, 
+                  "size": 1558105
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "Break Adjustment", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Break Adjustment", 
+                  "value": 2053648, 
+                  "size": 2053648
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "COLLECTIONS", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 211850, 
+                  "size": 211850
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 847000, 
+                  "size": 847000
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "INFORMATION TECHNOLOGY", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 1080000, 
+                  "size": 1080000
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 950600, 
+                  "size": 950600
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "MANAGEMENT & BUDGET", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 315700, 
+                  "size": 315700
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 508619, 
+                  "size": 508619
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "MUNICIPAL COURT", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 204850, 
+                  "size": 204850
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 3586202, 
+                  "size": 3586202
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "PAYROLL", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 9400, 
+                  "size": 9400
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 411432, 
+                  "size": 411432
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "PENSION", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 9750, 
+                  "size": 9750
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 176540, 
+                  "size": 176540
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "PUBLIC DEFENDER", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 257400, 
+                  "size": 257400
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 86000, 
+                  "size": 86000
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "PURCHASING & CENTRAL SERVICES", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 46750, 
+                  "size": 46750
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 656000, 
+                  "size": 656000
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "REAL ESTATE", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 10600, 
+                  "size": 10600
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 167011, 
+                  "size": 167011
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "RISK MANAGEMENT", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 4525, 
+                  "size": 4525
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 241270, 
+                  "size": 241270
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "TREASURY & DEBT MANAGEMENT", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 5650, 
+                  "size": 5650
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 285417, 
+                  "size": 285417
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "name": "FIRE & EMERGENCY SVCS.", 
+      "children": [
+        {
+          "name": "FIRE", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 1505300, 
+                  "size": 1505300
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 63119902, 
+                  "size": 63119902
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "NON-DIVISIONAL", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "FIRE OE O.S.H.A (PL 1983,c 516)", 
+                  "value": 350000, 
+                  "size": 350000
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "UNIFORM FIRE SAFETY ACT (PL83,c.383)", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 250000, 
+                  "size": 250000
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "name": "FREE PUBLIC LIBRARY", 
+      "children": [
+        {
+          "name": "NON-DIVISIONAL", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "MAINTENANCE \u2013 FREE PUBLIC LIBRARY (PL 1985,c 82)", 
+                  "value": 7900000, 
+                  "size": 7900000
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "name": "HEALTH & HUMAN SERVICES", 
+      "children": [
+        {
+          "name": "AIDS EDUCATION PROGRAM", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 20000, 
+                  "size": 20000
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "CLINICAL SERVICES", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 62770, 
+                  "size": 62770
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 290540, 
+                  "size": 290540
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "CULTURAL AFFAIRS", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 171500, 
+                  "size": 171500
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 519952, 
+                  "size": 519952
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "DIRECTOR'S OFFICE", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 4450, 
+                  "size": 4450
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 653068, 
+                  "size": 653068
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "HEALTH", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 621600, 
+                  "size": 621600
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 1938372, 
+                  "size": 1938372
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "SENIOR CITIZEN AFFAIRS", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 113900, 
+                  "size": 113900
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 388039, 
+                  "size": 388039
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "name": "HOUSING, ECON. DEV. & COMMERCE", 
+      "children": [
+        {
+          "name": "BOARD OF ADJUSTMENT", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 68500, 
+                  "size": 68500
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "CITY PLANNING", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 855733, 
+                  "size": 855733
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 9000, 
+                  "size": 9000
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "COMMERCE", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 616244, 
+                  "size": 616244
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 25800, 
+                  "size": 25800
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "COMMUNITY DEVELOPMENT", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 4250, 
+                  "size": 4250
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "CONSTRUCTION CODE OFFICIAL", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 117500, 
+                  "size": 117500
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 1915860, 
+                  "size": 1915860
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "DIRECTOR'S OFFICE", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 31800, 
+                  "size": 31800
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 523593, 
+                  "size": 523593
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "ECONOMIC DEVELOPMENT", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 206628, 
+                  "size": 206628
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 6500, 
+                  "size": 6500
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "HISTORIC DISTRICT COMMISSION", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 100, 
+                  "size": 100
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "HOUSING CODE ENFORCEMENT", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 631218, 
+                  "size": 631218
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "PLANNING BOARD", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 82800, 
+                  "size": 82800
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "TENANT/LANDLORD RELATIONS", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 20200, 
+                  "size": 20200
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 234000, 
+                  "size": 234000
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "Uniform Construction Code Appropriations Offset by Dedicated Revenues (N.J.A.C 5:23-4.17)", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Uniform Construction Code Appropriations Offset by Dedicated Revenues (N.J.A.C 5:23-4.17)", 
+                  "value": 0, 
+                  "size": 0
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "ZONING OFFICER", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 12400, 
+                  "size": 12400
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 236794, 
+                  "size": 236794
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "name": "JC INCINERATOR AUTHORITY", 
+      "children": [
+        {
+          "name": "NON-DIVISIONAL", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "JC INCINERATOR AUTHORITY", 
+                  "value": 33993916, 
+                  "size": 33993916
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "name": "JC PARKING AUTHORITY", 
+      "children": [
+        {
+          "name": "NON-DIVISIONAL", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "JC PARKING AUTHORITY", 
+                  "value": 1078683, 
+                  "size": 1078683
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "name": "LAW", 
+      "children": [
+        {
+          "name": "LAW DEPARTMENT", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 363300, 
+                  "size": 363300
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 2809921, 
+                  "size": 2809921
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "name": "MAYOR'S OFFICE", 
+      "children": [
+        {
+          "name": "MAYOR'S OFFICE", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 19560, 
+                  "size": 19560
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 1010000, 
+                  "size": 1010000
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "name": "MUNICIPAL COUNCIL", 
+      "children": [
+        {
+          "name": "MUNICIPAL COUNCIL", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 89000, 
+                  "size": 89000
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 584200, 
+                  "size": 584200
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "name": "NON-DEPARTAMENTAL", 
+      "children": [
+        {
+          "name": "EMERGENCY AUTHORIZATIONS", 
+          "children": [
+            {
+              "name": "DEFERRED CHARGES \u2013 MUNICIPAL", 
+              "children": [
+                {
+                  "name": "Emergency authorization", 
+                  "value": 4390000, 
+                  "size": 4390000
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "NON-DIVISIONAL", 
+          "children": [
+            {
+              "name": "CAPITAL IMPROVEMENTS", 
+              "children": [
+                {
+                  "name": "Acquisition, Remediation of Public Property", 
+                  "value": 200000, 
+                  "size": 200000
+                }, 
+                {
+                  "name": "CAPITAL IMPROVEMENT FUND", 
+                  "value": 400000, 
+                  "size": 400000
+                }, 
+                {
+                  "name": "Public & Private programs Offered by Revenues", 
+                  "value": 0, 
+                  "size": 0
+                }
+              ]
+            }, 
+            {
+              "name": "CASH DEFICIT \u2013 PRECEEDING YEAR", 
+              "children": [
+                {
+                  "name": "CASH DEFICIT -PRECEEDING YEAR", 
+                  "value": 0, 
+                  "size": 0
+                }
+              ]
+            }, 
+            {
+              "name": "CONTINGENT", 
+              "children": [
+                {
+                  "name": "CONTINGENT", 
+                  "value": 50000, 
+                  "size": 50000
+                }
+              ]
+            }, 
+            {
+              "name": "DEFERRED CHARGES \u2013 MUNICIPAL", 
+              "children": [
+                {
+                  "name": "3 YEAR EMERGENCY AUTH.", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "5 YEAR EMERGENCY AUTH. - Master Plan", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Hurricane Sandy Expenditure (FEMA)", 
+                  "value": 1193000, 
+                  "size": 1193000
+                }, 
+                {
+                  "name": "Reserve for Tax Appeals", 
+                  "value": 400000, 
+                  "size": 400000
+                }, 
+                {
+                  "name": "Tax Overpayments", 
+                  "value": 1385000, 
+                  "size": 1385000
+                }
+              ]
+            }, 
+            {
+              "name": "EMERGENCY AUTHORIZATIONS", 
+              "children": [
+                {
+                  "name": "Accumulated Absences", 
+                  "value": 7619611, 
+                  "size": 7619611
+                }, 
+                {
+                  "name": "Expenditure without Appropriation", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Overexpended Grant Reserves", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Overexpenditures", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Special Emergency Authorizations 3 Years (40A:4-55)(40A:4-55.13)", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Special Emergency Authorizations 5 Years (40A:4-55)", 
+                  "value": 0, 
+                  "size": 0
+                }
+              ]
+            }, 
+            {
+              "name": "JUDGEMENTS", 
+              "children": [
+                {
+                  "name": "Judgements", 
+                  "value": 0, 
+                  "size": 0
+                }
+              ]
+            }, 
+            {
+              "name": "LOCAL DISTRICT SCHOOL PURPOSES", 
+              "children": [
+                {
+                  "name": "Capital Project for Land, Bldg, Equip (NJS 18A:22-2)", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Emergency Authorization-Schools", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "INTEREST ON BONDS-CHAPTER 74", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "INTEREST ON NOTES", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "INTERST ON BONDS-SCHOOL QUAL.", 
+                  "value": 2965025, 
+                  "size": 2965025
+                }, 
+                {
+                  "name": "MATURING SER.BONDS-CHAPTER 74", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "MATURING SER.BONDS-SCHOOL QUAL.", 
+                  "value": 9225000, 
+                  "size": 9225000
+                }, 
+                {
+                  "name": "PAYMENT SCHOOL PROMISSORY NOTE", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "PAYMENT-BOND ANTICIPATION NOTE", 
+                  "value": 0, 
+                  "size": 0
+                }
+              ]
+            }, 
+            {
+              "name": "MUNICIPAL DEBT SERVICE", 
+              "children": [
+                {
+                  "name": "APPLE TREE HOUSE", 
+                  "value": 14669, 
+                  "size": 14669
+                }, 
+                {
+                  "name": "BOND ANTICIPATION NOTES \u2013 PRINCIPAL", 
+                  "value": 4659195, 
+                  "size": 4659195
+                }, 
+                {
+                  "name": "DEMOLITION BOND LOAN", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "FIRE PENSION REF. BONDS \u2013 INTEREST", 
+                  "value": 947013, 
+                  "size": 947013
+                }, 
+                {
+                  "name": "GREEN TRUST MULTI PARKS", 
+                  "value": 38243, 
+                  "size": 38243
+                }, 
+                {
+                  "name": "GREEN TRUST \u2013 BERRY LANE", 
+                  "value": 8084, 
+                  "size": 8084
+                }, 
+                {
+                  "name": "GREEN TRUST \u2013 MONTGOMERY GATEWAY", 
+                  "value": 3110, 
+                  "size": 3110
+                }, 
+                {
+                  "name": "HCIA POOLED LOAN", 
+                  "value": 401600, 
+                  "size": 401600
+                }, 
+                {
+                  "name": "INTEREST ON BONDS \u2013 GEN.REFUNDING", 
+                  "value": 11210957, 
+                  "size": 11210957
+                }, 
+                {
+                  "name": "INTEREST ON BONDS \u2013 GENERAL QUAL.", 
+                  "value": 4983592, 
+                  "size": 4983592
+                }, 
+                {
+                  "name": "INTEREST ON BONDS \u2013 QUALIFIED", 
+                  "value": 141769, 
+                  "size": 141769
+                }, 
+                {
+                  "name": "INTEREST ON BONDS \u2013 REFUNDING", 
+                  "value": 1243227, 
+                  "size": 1243227
+                }, 
+                {
+                  "name": "INTEREST ON NOTES", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "INTEREST ON NOTES \u2013 GEN.& REFUNDING", 
+                  "value": 884515, 
+                  "size": 884515
+                }, 
+                {
+                  "name": "MARION PAVONIA POOL", 
+                  "value": 26428, 
+                  "size": 26428
+                }, 
+                {
+                  "name": "MATURING SERIAL BONDS \u2013 GEN (BAB) INT", 
+                  "value": 4391723, 
+                  "size": 4391723
+                }, 
+                {
+                  "name": "MATURING SERIAL BONDS \u2013 GEN (BAB) PRIN", 
+                  "value": 480000, 
+                  "size": 480000
+                }, 
+                {
+                  "name": "MATURING SERIAL BONDS \u2013 GEN. QUAL.", 
+                  "value": 6191000, 
+                  "size": 6191000
+                }, 
+                {
+                  "name": "MATURING SERIAL BONDS \u2013 GEN. REFUNDING", 
+                  "value": 17645000, 
+                  "size": 17645000
+                }, 
+                {
+                  "name": "MATURING SERIAL BONS \u2013 REFUNDING", 
+                  "value": 3555000, 
+                  "size": 3555000
+                }, 
+                {
+                  "name": "POLICE PENSION REF. BONDS \u2013 INTEREST", 
+                  "value": 1369515, 
+                  "size": 1369515
+                }, 
+                {
+                  "name": "POLICE/FIRE PEN REFUND BONDS-PRINCIPAL", 
+                  "value": 780000, 
+                  "size": 780000
+                }, 
+                {
+                  "name": "ROBERT CLEMENTE PARK", 
+                  "value": 17661, 
+                  "size": 17661
+                }, 
+                {
+                  "name": "SGT. ANTHONY PARK", 
+                  "value": 9017, 
+                  "size": 9017
+                }, 
+                {
+                  "name": "WAYNE STREET PARK", 
+                  "value": 9021, 
+                  "size": 9021
+                }
+              ]
+            }, 
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "ADDITIONAL APPROPRIATIONS OFFSET BY REVENUES (N.J.S. 40A:4-45.3H)", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "AMBULANCE SERVICE", 
+                  "value": 3925775, 
+                  "size": 3925775
+                }, 
+                {
+                  "name": "ASPCA", 
+                  "value": 10000, 
+                  "size": 10000
+                }, 
+                {
+                  "name": "ATP \u2013 Dead End Streets II", 
+                  "value": 220000, 
+                  "size": 220000
+                }, 
+                {
+                  "name": "ATP \u2013 Destination Jersey City Ph 3", 
+                  "value": 100000, 
+                  "size": 100000
+                }, 
+                {
+                  "name": "ATP \u2013 Traffic Striping & Markings", 
+                  "value": 200000, 
+                  "size": 200000
+                }, 
+                {
+                  "name": "ATP \u2013 Two Traffic Signals", 
+                  "value": 500000, 
+                  "size": 500000
+                }, 
+                {
+                  "name": "Accumulated Absences", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Banfield Grant", 
+                  "value": 10000, 
+                  "size": 10000
+                }, 
+                {
+                  "name": "Ben Roethlisberger", 
+                  "value": 10000, 
+                  "size": 10000
+                }, 
+                {
+                  "name": "Body Armor Replacement \u2013 Arson", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Break Adjustment", 
+                  "value": 90, 
+                  "size": 90
+                }, 
+                {
+                  "name": "Bufferzone Protection", 
+                  "value": 259000, 
+                  "size": 259000
+                }, 
+                {
+                  "name": "Bullet Proof Vest Partnership Program", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "COMMUNICATIONS", 
+                  "value": 1545000, 
+                  "size": 1545000
+                }, 
+                {
+                  "name": "COPS in Shops", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "CSBG \u2013 Special Initiative", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Central Avenue SID", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Child Health \u2013 PORSCHE", 
+                  "value": 195000, 
+                  "size": 195000
+                }, 
+                {
+                  "name": "Clean Communities", 
+                  "value": 349581, 
+                  "size": 349581
+                }, 
+                {
+                  "name": "Community Service Block Grant", 
+                  "value": 660159, 
+                  "size": 660159
+                }, 
+                {
+                  "name": "DOT \u2013 3 Traffic Signals", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Drunk Driving Enforcement Fund", 
+                  "value": 9715, 
+                  "size": 9715
+                }, 
+                {
+                  "name": "EDC Administration", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "ELECTRICITY", 
+                  "value": 3400000, 
+                  "size": 3400000
+                }, 
+                {
+                  "name": "ETHICAL STANDARDS BOARD", 
+                  "value": 20000, 
+                  "size": 20000
+                }, 
+                {
+                  "name": "Ed Byrne JAG", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Edward Byrne Grant (JAG)", 
+                  "value": 203864, 
+                  "size": 203864
+                }, 
+                {
+                  "name": "Employee Group Health Insurance", 
+                  "value": 70943758, 
+                  "size": 70943758
+                }, 
+                {
+                  "name": "FEMA/AFG \u2013 Fire Hose & Equip", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "FEMA/AFG \u2013 Personal Protection Equip", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "FY2013 Municipal Aid Program", 
+                  "value": 1077190, 
+                  "size": 1077190
+                }, 
+                {
+                  "name": "First Street Park", 
+                  "value": 295000, 
+                  "size": 295000
+                }, 
+                {
+                  "name": "GASOLINE", 
+                  "value": 1600000, 
+                  "size": 1600000
+                }, 
+                {
+                  "name": "HCOS \u2013 Caven Point Traffic", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "HCOS \u2013 Friends of Loews", 
+                  "value": 535841, 
+                  "size": 535841
+                }, 
+                {
+                  "name": "HCOS \u2013 Peter Stuyvesant", 
+                  "value": 25000, 
+                  "size": 25000
+                }, 
+                {
+                  "name": "HCOS \u2013 Reservoir #3", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "HEALTH BENEFIT WAIVER", 
+                  "value": 1200000, 
+                  "size": 1200000
+                }, 
+                {
+                  "name": "Harborside Industrial Drive", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Hazard Materials Emergency Plan", 
+                  "value": 42300, 
+                  "size": 42300
+                }, 
+                {
+                  "name": "Highway Traffic Study", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Historic Downtown SID", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Homeland Security And Prep Grant", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "INSURANCE ALL DEPARTMENTS", 
+                  "value": 6200000, 
+                  "size": 6200000
+                }, 
+                {
+                  "name": "INTERLOCAL MUNICIPAL SERVICE AGREEMENTS", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "JC Signalization Improvements", 
+                  "value": 792000, 
+                  "size": 792000
+                }, 
+                {
+                  "name": "JCEDC \u2013 Corp Marketing", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "JTPA", 
+                  "value": 7351489, 
+                  "size": 7351489
+                }, 
+                {
+                  "name": "Journal Square SID", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Learn to Swim", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Local Safety Program", 
+                  "value": 615287, 
+                  "size": 615287
+                }, 
+                {
+                  "name": "Local Safety/McGinley", 
+                  "value": 350000, 
+                  "size": 350000
+                }, 
+                {
+                  "name": "MUNICIPAL PUBLICITY", 
+                  "value": 20000, 
+                  "size": 20000
+                }, 
+                {
+                  "name": "MUNICIPAL RENT", 
+                  "value": 2520000, 
+                  "size": 2520000
+                }, 
+                {
+                  "name": "MUTCD Traffic Sign Inventory", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Matching Funds For Grants", 
+                  "value": 50000, 
+                  "size": 50000
+                }, 
+                {
+                  "name": "McGinley Square SID", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Metro Medical Response System", 
+                  "value": 281693, 
+                  "size": 281693
+                }, 
+                {
+                  "name": "Mun. Alliance-Drug & Alcohol Abuse", 
+                  "value": 291511, 
+                  "size": 291511
+                }, 
+                {
+                  "name": "NJ DOT MAP Various Sts", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "NJ DOT Newark Ave Ph 4", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "NJ DOT Summit Ave 3 Int", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "NJCU Business Development Center", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Neighborhood Stabilization Program", 
+                  "value": 625000, 
+                  "size": 625000
+                }, 
+                {
+                  "name": "OFFICE SERVICES", 
+                  "value": 1377000, 
+                  "size": 1377000
+                }, 
+                {
+                  "name": "OJJDP Underage Drinking Enforcement", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "OTHER MUNICIPAL ADVERTIZING", 
+                  "value": 20000, 
+                  "size": 20000
+                }, 
+                {
+                  "name": "PANYJC Homeland Security", 
+                  "value": 612620, 
+                  "size": 612620
+                }, 
+                {
+                  "name": "PANYNJ Port Security", 
+                  "value": 41250, 
+                  "size": 41250
+                }, 
+                {
+                  "name": "POLICE/FIRE RETIREMENT SYS. NJ", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "PROFESSIONAL AFFILIATIONS", 
+                  "value": 20000, 
+                  "size": 20000
+                }, 
+                {
+                  "name": "Peer Grouping Grant", 
+                  "value": 40000, 
+                  "size": 40000
+                }, 
+                {
+                  "name": "Petsmart Charities", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Port Security Grant", 
+                  "value": 234200, 
+                  "size": 234200
+                }, 
+                {
+                  "name": "Project GLAD (Roid)", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Public Employee's Retire.Sys. (PERS)", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Reservoir 3 Stabilization", 
+                  "value": 50000, 
+                  "size": 50000
+                }, 
+                {
+                  "name": "SALARY ADJUSTMENT", 
+                  "value": 1750000, 
+                  "size": 1750000
+                }, 
+                {
+                  "name": "STREET LIGHTING", 
+                  "value": 3400000, 
+                  "size": 3400000
+                }, 
+                {
+                  "name": "Safe & Secure Communities", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Safe Routes To School #4", 
+                  "value": 300000, 
+                  "size": 300000
+                }, 
+                {
+                  "name": "Senior Farmer's Market", 
+                  "value": 1750, 
+                  "size": 1750
+                }, 
+                {
+                  "name": "Senior Farmers Market", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Senior Info and Assistant/Pandemic Flu Prep", 
+                  "value": 65000, 
+                  "size": 65000
+                }, 
+                {
+                  "name": "Senior Nutrition", 
+                  "value": 1390654, 
+                  "size": 1390654
+                }, 
+                {
+                  "name": "Sexually Transmitter Disease Control", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Small Business Development Center", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Subregional Studies Program \u2013 Liberty St Park", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Subregional Studies Program \u2013 Morris Canal", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Subregional Transportation Planning", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Summer Food Services", 
+                  "value": 607778, 
+                  "size": 607778
+                }, 
+                {
+                  "name": "TDR Planning Assistance", 
+                  "value": 40000, 
+                  "size": 40000
+                }, 
+                {
+                  "name": "Town Hall Meeting", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "UASI JC Gold Coast", 
+                  "value": 75000, 
+                  "size": 75000
+                }, 
+                {
+                  "name": "UEZ CCTV Phase II", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "UEZ \u2013 Jackson Hill Main Street", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "UEZ \u2013 Main Street", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "UEZ \u2013 Rising Tide Capital", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "UEZ \u2013 Second Chance Maintenance Program", 
+                  "value": 482625, 
+                  "size": 482625
+                }, 
+                {
+                  "name": "UNIFORM CONSTRUCTION CODE INCREASED FREE REVENUES (NJAC 5:23-4.17)", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Urban Areas Security Initiative \u2013 Fire", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Westside Avenue Study", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Women, Infant & Children (W.I.C)", 
+                  "value": 0, 
+                  "size": 0
+                }
+              ]
+            }, 
+            {
+              "name": "PRIOR YEARS BILLS", 
+              "children": [
+                {
+                  "name": "CY11 Medicare Reimbursement Voucher", 
+                  "value": 290, 
+                  "size": 290
+                }, 
+                {
+                  "name": "PRIOR YEARS BILLS 2012", 
+                  "value": 0, 
+                  "size": 0
+                }
+              ]
+            }, 
+            {
+              "name": "RESERVE FOR UNCOLLECTED TAXES", 
+              "children": [
+                {
+                  "name": "RESERVE FOR UNCOLLECTED TAXES", 
+                  "value": 1528223, 
+                  "size": 1528223
+                }
+              ]
+            }, 
+            {
+              "name": "STATUTORY EXPENDITURES", 
+              "children": [
+                {
+                  "name": "CASH DEFICIT OF PRECEDING YEAR", 
+                  "value": 0, 
+                  "size": 0
+                }, 
+                {
+                  "name": "Consol. Police/Fire Pension", 
+                  "value": 167303, 
+                  "size": 167303
+                }, 
+                {
+                  "name": "Employee Non-Contributory Pension (NJS43:88-7)", 
+                  "value": 225000, 
+                  "size": 225000
+                }, 
+                {
+                  "name": "Mun. Employees Pension Fund", 
+                  "value": 8413998, 
+                  "size": 8413998
+                }, 
+                {
+                  "name": "PERS \u2013 Defined Contribution Retirement Plan", 
+                  "value": 10000, 
+                  "size": 10000
+                }, 
+                {
+                  "name": "Payments To Widows & Dependents Deceases Public Safety Memebers (NJ40:11,43:8B)", 
+                  "value": 720, 
+                  "size": 720
+                }, 
+                {
+                  "name": "Pension Employees", 
+                  "value": 72000, 
+                  "size": 72000
+                }, 
+                {
+                  "name": "Police/Fire Retirement System NJ", 
+                  "value": 34982452, 
+                  "size": 34982452
+                }, 
+                {
+                  "name": "Public Employee's Retirement System (PERS)", 
+                  "value": 2483300, 
+                  "size": 2483300
+                }, 
+                {
+                  "name": "Social Security System (O.A.S.I)", 
+                  "value": 3850000, 
+                  "size": 3850000
+                }, 
+                {
+                  "name": "UNEMPLOYMENT COMP. INSURANCE N.J.S. 43:31 et seq", 
+                  "value": 650000, 
+                  "size": 650000
+                }
+              ]
+            }, 
+            {
+              "name": "TRANSFERRED", 
+              "children": [
+                {
+                  "name": "TRANSFERRED \u2013 BOARD of EDUCATION FOR USE of LOCAL SCHOOLS (NJSA 40:48-17.1 & 17.3)", 
+                  "value": 0, 
+                  "size": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "name": "OFFICE OF THE CITY CLERK", 
+      "children": [
+        {
+          "name": "OFFICE OF THE CITY CLERK", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "General & Primary Election", 
+                  "value": 100000, 
+                  "size": 100000
+                }, 
+                {
+                  "name": "Municipal Election", 
+                  "value": 750000, 
+                  "size": 750000
+                }, 
+                {
+                  "name": "Other Expenses", 
+                  "value": 96600, 
+                  "size": 96600
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 822392, 
+                  "size": 822392
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "name": "OFFICE OF THE TAX ASSEROR", 
+      "children": [
+        {
+          "name": "TAX ASSESOR", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 247000, 
+                  "size": 247000
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 887881, 
+                  "size": 887881
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "name": "POLICE", 
+      "children": [
+        {
+          "name": "POLICE", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 2788737, 
+                  "size": 2788737
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 97900000, 
+                  "size": 97900000
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "name": "PUBLIC WORKS", 
+      "children": [
+        {
+          "name": "ARCHITECTURE", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 27200, 
+                  "size": 27200
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 399711, 
+                  "size": 399711
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "AUTOMOTIVE SERVICES", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 2966120, 
+                  "size": 2966120
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 834457, 
+                  "size": 834457
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "BUILDING & STREET MAINTENANCE", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 1504600, 
+                  "size": 1504600
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 2075332, 
+                  "size": 2075332
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "DIRECTOR'S OFFICE", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 65600, 
+                  "size": 65600
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 570000, 
+                  "size": 570000
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "ENGINEERING", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 1664700, 
+                  "size": 1664700
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 1695790, 
+                  "size": 1695790
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "name": "PARK MAINTENANCE", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 849400, 
+                  "size": 849400
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 2050203, 
+                  "size": 2050203
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "name": "RECREATION", 
+      "children": [
+        {
+          "name": "DIRECTOR'S OFFICE", 
+          "children": [
+            {
+              "name": "OPERATIONS", 
+              "children": [
+                {
+                  "name": "Other Expenses", 
+                  "value": 445800, 
+                  "size": 445800
+                }, 
+                {
+                  "name": "Salaries & Wages", 
+                  "value": 2590000, 
+                  "size": 2590000
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
